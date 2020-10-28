@@ -19,3 +19,7 @@ function generateAuthorMap(): { [key: string]: AuthorContent } {
 export function getAuthor(slug: string) {
   return authorMap[slug];
 }
+
+export function listAuthors(): AuthorContent[] {
+  return authors.authors;
+}
