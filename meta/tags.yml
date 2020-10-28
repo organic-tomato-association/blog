@@ -1,13 +1,13 @@
 tags:
-  - slug: document
-    name: document
-  - slug: mock
-    name: mock
-  - slug: style
-    name: style
-  - slug: license
-    name: license
-  - slug: mdx
-    name: mdx
-  - slug: markdown
-    name: markdown
+  - slug: hobby
+    name: Hobby
+  - slug: development
+    name: Development
+  - slug: security
+    name: Security
+  - name: im@stodon
+    slug: imastodon
+  - slug: music
+    name: Music
+  - name: SmartHome
+    slug: smarthome
